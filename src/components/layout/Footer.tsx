@@ -18,7 +18,7 @@ const Footer: React.FC = () => {
             </p>
             <div className="flex mt-6 space-x-4">
               <a
-                href="https://facebook.com"
+                href="https://www.facebook.com/profile.php?id=61575819458134"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-neutral-300 hover:text-white transition-colors"
@@ -26,7 +26,7 @@ const Footer: React.FC = () => {
                 <Facebook size={20} />
               </a>
               <a
-                href="https://instagram.com"
+                href="https://www.instagram.com/meparqueo/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-neutral-300 hover:text-white transition-colors"
@@ -34,7 +34,7 @@ const Footer: React.FC = () => {
                 <Instagram size={20} />
               </a>
               <a
-                href="https://twitter.com"
+                href="#"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-neutral-300 hover:text-white transition-colors"
