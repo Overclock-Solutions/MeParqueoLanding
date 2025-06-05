@@ -29,7 +29,7 @@ const HeroSection: React.FC = () => {
             className="text-white"
           >
             <h1 className="font-bold mb-6">
-              ¿Cansado de buscar parqueadero en el centro de Montería?
+              ¿Cansado de buscar parqueadero en el centro de Monteria?
             </h1>
 
             <p className="text-xl md:text-2xl mb-8 text-white/90">
