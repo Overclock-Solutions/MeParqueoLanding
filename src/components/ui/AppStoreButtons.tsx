@@ -11,7 +11,7 @@ const AppStoreButtons: React.FC<AppStoreButtonsProps> = ({
   return (
     <div className={`flex flex-col sm:flex-row gap-4 ${className}`}>
       <a
-        href="https://link.bambai.tech/meparqueo"
+        href="https://apps.apple.com/co/app/me-parqueo/id6747217841?l=en-GB"
         className="bg-black text-white rounded-xl px-6 py-3 flex items-center justify-center hover:bg-neutral-800 transition-colors"
         target="_blank"
         rel="noopener noreferrer"
@@ -25,7 +25,7 @@ const AppStoreButtons: React.FC<AppStoreButtonsProps> = ({
 
       {
         <a
-          href="https://link.bambai.tech/meparqueo"
+          href="https://play.google.com/store/apps/details?id=com.markuswater.meparqueoapp"
           className="bg-black text-white rounded-xl px-6 py-3 flex items-center justify-center hover:bg-neutral-800 transition-colors"
         >
           <GooglePlayIcon className="h-7 w-7 mr-3" />
